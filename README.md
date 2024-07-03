@@ -2,17 +2,17 @@
 
 ## Functionalities of Project 
 
-**Choose USER :** student or staff 
-**Enter PASSWORD :** according to the chosen  USER
-**Options for the user :**
-        - Add Student data
-        - Modify student data
-        - Delete student data:
-        - Extract: Print Report card                                                                                                                                                                
-        - view Toppers: Display 
-                            -class topper
-                            -Subject topper
-							-School topper
+**Choose USER :** student or staff <br /> 
+**Enter PASSWORD :** according to the chosen  USER <br /> 
+**Options for the user :** <br /> 
+        - Add Student data <br /> 
+        - Modify student data <br /> 
+        - Delete student data: <br /> 
+        - Extract: Print Report card  <br />                                                                                                                                                               
+        - view Toppers: Display <br /> 
+                            -class topper <br /> 
+                            -Subject topper <br /> 
+			    -School topper <br /> 
 **Print marks and percentage of all students:**
 							    -School Report card
 							    -Class Report card
